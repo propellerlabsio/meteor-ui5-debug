@@ -4,9 +4,9 @@ This package is a helper for debugging UI5 apps with Meteor.  It contains a conn
 ## Using this package
 This package can be added to your meteor project with `meteor add propellerlabsio:meteor-ui5-debug`.
 
-Please see the [Meteor Ui5 website](http://meteor-ui5.propellerlabs.io) for documentation and demos of all of the features of the Meteor-UI5 packages. In particular, the following resources might be useful:
-* [Quickstart guide](http://meteor-ui5.propellerlabs.io/#/docs/quickstart)
-* [Tutorial](http://meteor-ui5.propellerlabs.io/#/tutorial)
+Please see the [Meteor Ui5 website](http://meteor-ui5.propellerlabs.com) for documentation and demos of all of the features of the Meteor-UI5 packages. In particular, the following resources might be useful:
+* [Quickstart guide](http://meteor-ui5.propellerlabs.com/#/docs/quickstart)
+* [Tutorial](http://meteor-ui5.propellerlabs.com/#/tutorial/mongo/step/00)
 
 ## Roadmap
 
